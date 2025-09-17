@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Akshat Sharma  <br>🎓 Computer Science & Engineering Student | Aspiring Software Engineer<br>💻 Passionate about **DSA (C++) , Full-Stack Web Development (MERN) & Android Development  <br>🚀 Currently learning Flutter and will Learn MERN .  <br>🎯 Goal for 2025: Master DSA, become a Full-Stack & Android Developer , and securing an internship also contributing for project which will solve major issues.  <br>⚡ Always eager to learn, build, and grow
+👋 Hi, I'm Akshat Sharma  <br>🎓 Computer Science & Engineering Student | Aspiring Software Engineer<br>💻 Passionate about Problem Solving (C++) , Full-Stack Web Development (MERN) & Generative AI <br>🚀 Currently learning GENAI and will Learn MERN .  <br>🎯 Goal for 2025: Master DSA , GenAi and become a Full-Stack &  , and securing an internship also contributing for project which will solve major issues.  <br>⚡ Always eager to learn, build, and grow
 
 
 ## 🌐 Socials:
